@@ -33,7 +33,7 @@ Similarly, if you download a video from YouTube using the application, it will a
 
 **Task :**
 
-  Qouting from `whisper-standalone-win`
+  Quoting from `whisper-standalone-win`
   >Transribe : Whether to perform X->X speech recognition
 
   >Translate : X->English translation 
