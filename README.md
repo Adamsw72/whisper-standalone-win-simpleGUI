@@ -3,7 +3,8 @@
 
 An easy-to-use GUI addon for [whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) that includes a built-in YouTube video downloader. The downloader also recognizes downloaded videos to be processed with `whisper-standalone-win`.
 
-  ![Whisper-Faster-simpleGUI](https://github.com/Adamsw72/whisper-standalone-win-simpleGUI/assets/37792924/3063501a-3be7-487d-8ea1-ff814073ec4b)
+  ![Whisper-Faster-simpleGUI](https://github.com/Adamsw72/whisper-standalone-win-simpleGUI/assets/37792924/c6a4894c-35f4-46f5-8655-6c0b6eab0527)
+
 
 This is my first script written in Python. Any feedback or suggestions are greatly appreciated!
 
